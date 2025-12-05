@@ -16,6 +16,5 @@ tensorboard_3d
 screenshots
 *.so
 
-# Large files - PLY models and videos
+# Large files - PLY models
 *.ply
-*.mp4

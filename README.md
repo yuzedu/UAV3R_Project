@@ -188,10 +188,10 @@ If the transformation between camera and IMU is not available, use [Kalibr](http
 
 Example reconstruction result visualization:
 
-![3D Gaussian Splatting Demo](assets/supersplat_black_background_1440p.gif)
+[Demo Video](assets/supersplat_whitney_white.mp4)
 
 **Full Results:**
-- All `.ply` models and visualization videos are available at: [Google Drive](https://drive.google.com/drive/folders/1za5_e-UDhSbdU-IUk8arQ6JAeWoARWNo?usp=sharing)
+- All `.ply` models and additional visualization videos are available at: [Google Drive](https://drive.google.com/drive/folders/1za5_e-UDhSbdU-IUk8arQ6JAeWoARWNo?usp=sharing)
 - ROS bag data is available in the submission comment
 
 You can visualize the `.ply` files using [SuperSplat](https://superspl.at/editor).
