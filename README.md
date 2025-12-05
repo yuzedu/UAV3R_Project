@@ -186,19 +186,15 @@ If the transformation between camera and IMU is not available, use [Kalibr](http
 
 ## Demo Results
 
-Example reconstruction results are available in the [assets/](assets/) folder:
+Example reconstruction result visualization:
 
-**3D Models (.ply files):**
-- [snowdoll.ply](assets/snowdoll.ply) (60 MB) - Snowdoll scene reconstruction
-- [star_modular.ply](assets/star_modular.ply) (52 MB) - Star modular scene reconstruction
-- [whitney.ply](assets/whitney.ply) (164 MB) - Whitney scene reconstruction
-- [xmas.ply](assets/xmas.ply) (119 MB) - Christmas scene reconstruction
+![3D Gaussian Splatting Demo](assets/supersplat_black_background_1440p.gif)
 
-**Visualization Videos:**
-- [supersplat_snowdoll_white.mp4](assets/supersplat_snowdoll_white.mp4) - Snowdoll scene visualization
-- [supersplat_star_modular_star_modular.mp4](assets/supersplat_star_modular_star_modular.mp4) - Star modular scene visualization
-- [supersplat_whitney_white.mp4](assets/supersplat_whitney_white.mp4) - Whitney scene visualization
-- [supersplat_xmas_white.mp4](assets/supersplat_xmas_white.mp4) - Christmas scene visualization
+**Full Results:**
+- All `.ply` models and visualization videos are available at: [Google Drive](https://drive.google.com/drive/folders/1za5_e-UDhSbdU-IUk8arQ6JAeWoARWNo?usp=sharing)
+- ROS bag data is available in the submission comment
+
+You can visualize the `.ply` files using [SuperSplat](https://superspl.at/editor).
 
 ### Expected Folder Structure
 
