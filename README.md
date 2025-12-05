@@ -31,8 +31,8 @@ The installation process is divided into two parts:
 
 1. **Clone the repository with submodules:**
    ```bash
-   git clone --recursive <repository-url>
-   cd LongSplat
+   git clone --recursive https://github.com/yuzedu/UAV3R_Project.git
+   cd UAV3R_Project
    ```
 
 2. **Install Python dependencies:**
