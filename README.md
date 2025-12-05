@@ -188,7 +188,7 @@ If the transformation between camera and IMU is not available, use [Kalibr](http
 
 Example reconstruction result visualization:
 
-https://github.com/yuzedu/UAV3R_Project/assets/supersplat_whitney_white.mp4
+[![Demo Video](https://img.youtube.com/vi/2KLQLWY3heU/maxresdefault.jpg)](https://www.youtube.com/watch?v=2KLQLWY3heU)
 
 **Full Results:**
 - All `.ply` models and additional visualization videos are available at: [Google Drive - Results](https://drive.google.com/drive/folders/1za5_e-UDhSbdU-IUk8arQ6JAeWoARWNo?usp=sharing)
