@@ -44,7 +44,6 @@ The installation process is divided into two parts:
    The project includes the following submodules in the `submodules/` directory:
    - `diff-gaussian-rasterization`: Differentiable Gaussian rasterization
    - `fused-ssim`: Structural similarity implementation
-   - `mast3r`: MASt3R feature matching
    - `simple-knn`: K-nearest neighbors implementation
 
    Install each submodule:
