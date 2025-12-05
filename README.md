@@ -191,8 +191,8 @@ Example reconstruction result visualization:
 [Demo Video](assets/supersplat_whitney_white.mp4)
 
 **Full Results:**
-- All `.ply` models and additional visualization videos are available at: [Google Drive](https://drive.google.com/drive/folders/1za5_e-UDhSbdU-IUk8arQ6JAeWoARWNo?usp=sharing)
-- ROS bag data is available in the submission comment
+- All `.ply` models and additional visualization videos are available at: [Google Drive - Results](https://drive.google.com/drive/folders/1za5_e-UDhSbdU-IUk8arQ6JAeWoARWNo?usp=sharing)
+- ROS bag data is available at: [Google Drive - ROS Bags](https://drive.google.com/drive/folders/1nKuOCwT3Nz7Bp_IxtWwc8AJbJZ-3yy4H?usp=sharing)
 
 You can visualize the `.ply` files using [SuperSplat](https://superspl.at/editor).
 
@@ -231,6 +231,16 @@ output/
 - [metrics.py](metrics.py) - Evaluation metrics computation
 - Customized launch file for SqrtVINS ([SqrtVINS/launchFile/](SqrtVINS/launchFile/))
 - Calibration of customized drone platform
+
+## Acknowledgements
+
+This project builds upon the following excellent open-source work:
+
+- **3D Gaussian Splatting**: [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+- **SqrtVINS**: [rpng/sqrtVINS](https://github.com/rpng/sqrtVINS) - Robust and Ultrafast Square-Root Filter-based 3D Motion Tracking by the Robot Perception and Navigation Group (RPNG)
+- **Kalibr**: [ethz-asl/kalibr](https://github.com/ethz-asl/kalibr) - The Kalibr visual-inertial calibration toolbox for camera-IMU calibration
+
+We thank the authors for making their code publicly available.
 
 ## License
 
