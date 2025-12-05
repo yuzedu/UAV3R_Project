@@ -228,7 +228,7 @@ output/
 - [create_gif.py](create_gif.py) - Visualization GIF generation
 - [render.py](render.py) - 3D Gaussian Splatting rendering script
 - [metrics.py](metrics.py) - Evaluation metrics computation
-- Customized launch file for SqrtVINS ([SqrtVINS/launchFile/](SqrtVINS/launchFile/))
+- Customized launch file for SqrtVINS for efficiently save trajectory and feature points results ([SqrtVINS/launchFile/](SqrtVINS/launchFile/))
 - Calibration of customized drone platform
 
 ## Acknowledgements
