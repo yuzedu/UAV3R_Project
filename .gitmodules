@@ -1,0 +1,12 @@
+[submodule "submodules/diff-gaussian-rasterization"]
+	path = submodules/diff-gaussian-rasterization
+	url = https://github.com/linjohnss/diff-gaussian-rasterization-w-pose.git
+[submodule "submodules/simple-knn"]
+	path = submodules/simple-knn
+	url = https://gitlab.inria.fr/bkerbl/simple-knn
+[submodule "submodules/fused-ssim"]
+	path = submodules/fused-ssim
+	url = https://github.com/MrNeRF/optimized-fused-ssim.git
+[submodule "submodules/mast3r"]
+	path = submodules/mast3r
+	url = https://github.com/naver/mast3r.git
